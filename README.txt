@@ -13,5 +13,6 @@ Instructions:
 
     3) Prompting
 
-        To prompt the models run the Prompt_and_Bleu scripts for the respective model that you want to run (ex. Prompt_and_Bleu_LSTM.py)
+        To prompt the models run the Prompt_and_Bleu scripts for the respective model that 
+        you want to run (ex. Prompt_and_Bleu_LSTM.py).
         The prompts can be customized at the bottom of the file if you want to try your own.
